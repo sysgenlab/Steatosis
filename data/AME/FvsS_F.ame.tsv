@@ -1,0 +1,27 @@
+rank	motif_DB	motif_ID	motif_alt_ID	consensus	p-value	adj_p-value	E-value	tests	FASTA_max	pos	neg	PWM_min	TP	%TP	FP	%FP
+1	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0471.2	E2F6	VVDGGCGGGAAVV	2.95e-10	8.27e-8	6.17e-5	280	272	272	1088	1.19	87	31.99	160	14.71
+2	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0640.2	ELF3	NNCCACTTCCTGNT	7.85e-9	3.28e-6	2.45e-3	418	272	272	1088	1.35	107	39.34	238	21.88
+3	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA1116.1	RBPJ	BVTGGGAANN	1.40e-8	4.68e-6	3.49e-3	334	272	272	1088	4.66	73	26.84	134	12.32
+4	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0764.2	ETV4	RCAGGAAGBV	3.32e-8	1.34e-5	1.00e-2	404	272	272	1088	4.79	85	31.25	174	15.99
+5	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA1508.1	IKZF1	VVAACAGGAARN	5.30e-8	2.17e-5	1.62e-2	409	272	272	1088	1.05	118	43.38	286	26.29
+6	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA1646.1	OSR2	NNACAGAAGCNN	6.46e-8	3.33e-5	2.48e-2	515	272	272	1088	1.1	136	50.00	352	32.35
+7	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0761.2	ETV1	NNACAGGAAGTGNN	1.42e-7	5.20e-5	3.88e-2	365	272	272	1088	1.04	108	39.71	257	23.62
+8	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA1652.1	ZKSCAN5	NNRGGARGTGAGRR	1.41e-7	5.61e-5	4.19e-2	399	272	272	1088	2.75	66	24.26	123	11.31
+9	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0062.3	GABPA	NNCACTTCCTGTNN	1.75e-7	7.36e-5	5.49e-2	421	272	272	1088	1.09	116	42.65	286	26.29
+10	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0687.1	SPIC	HAAAAGVGGAAGTA	7.55e-7	1.15e-4	8.62e-2	153	272	272	1088	3.86	25	9.19	24	2.21
+11	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0136.2	ELF5	AMSMGGAAGTD	2.01e-6	5.33e-4	3.98e-1	265	272	272	1088	1.03	81	29.78	182	16.73
+12	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA1623.1	Stat2	RGAAACAGAAASH	2.99e-6	6.75e-4	5.04e-1	226	272	272	1088	5.12	30	11.03	38	3.49
+13	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0080.5	SPI1	NDRAAAGAGGAAGTGARANN	2.31e-6	6.92e-4	5.16e-1	300	272	272	1088	1.38	82	30.15	186	17.10
+14	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0598.3	EHF	NNCACTTCCTGTTNN	3.65e-6	1.20e-3	8.94e-1	328	272	272	1088	1.04	95	34.93	232	21.32
+15	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0473.3	ELF1	RDVCAGGAAGTGVN	4.01e-6	1.40e-3	1.04e0	349	272	272	1088	1.14	96	35.29	236	21.69
+16	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0846.1	FOXC2	WAWGTAAACAWW	8.48e-6	1.45e-3	1.08e0	171	272	272	1088	1.31	51	18.75	97	8.92
+17	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0076.2	ELK4	BCRCTTCCGGB	2.08e-5	2.60e-3	1.94e0	125	272	272	1088	1.42	39	14.34	67	6.16
+18	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0850.1	FOXP3	RTAAACA	9.97e-6	3.24e-3	2.41e0	325	272	272	1088	1.39	66	24.26	143	13.14
+19	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0489.1	JUN(var.2)	RRRRRRTGASTCAT	3.92e-5	6.09e-3	4.54e0	156	272	272	1088	19.2	20	7.35	22	2.02
+20	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0481.3	FOXP1	NDGTAAACANH	4.63e-5	8.80e-3	6.56e0	191	272	272	1088	1.23	53	19.49	111	10.20
+21	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0528.2	ZNF263	VNGGGGAGGASG	2.73e-5	1.20e-2	8.98e0	444	272	272	1088	1.03	117	43.01	324	29.78
+22	/data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme	MA0750.2	ZBTB7A	NVCCGGAAGTGSV	6.84e-5	1.26e-2	9.38e0	185	272	272	1088	1.48	46	16.91	92	8.46
+
+# AME (Analysis of Motif Enrichment): Version 5.0.5 compiled on May  7 2019 at 16:38:22
+# The format of this file is described at http://meme-suite.org/doc/ame-output-format.html.
+# ame -oc MEME-suite/AME/FvsS_F -control --shuffle-- -scoring avg -method fisher MEME-suite/fasta/Result.DiffBind.FvsS.upregulated.fasta /data/program/meme-5.0.5/database/motif_databases/JASPAR/JASPAR2020_CORE_vertebrates_non-redundant_pfms.meme
